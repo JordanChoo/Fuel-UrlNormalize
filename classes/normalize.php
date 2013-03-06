@@ -1,6 +1,8 @@
 <?php
 
-class UrlNormalize
+namespace UrlNormalize;
+
+class 
 {
 /**
  * Copyright (c) 2011 Niklas A. Femerstrand <niklas@flattr.com>
@@ -23,6 +25,8 @@ class UrlNormalize
 * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 * THE SOFTWARE.
 */
+	
+	
 
 	public static function normalizeURL($url)
 	{
